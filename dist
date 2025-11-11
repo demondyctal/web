@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Demondyctal Panel</title>
+<style>
+body { font-family: Arial, sans-serif; background: #0d0d0d; color: #fff; text-align:center; }
+h1 { color: #00e1ff; margin-top:20vh; }
+</style>
+</head>
+<body>
+<h1>💠 Welcome to Demondyctal Panel</h1>
+<p>Frontend ready & connected to backend API.</p>
+</body>
+</html>
